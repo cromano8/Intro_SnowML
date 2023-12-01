@@ -1,0 +1,13 @@
+name: Intro_SnowML
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - ipykernel
+  - pre-commit
+  - scikit-learn
+  - seaborn
+  - snowflake-snowpark-python[pandas]
+  - snowflake-ml-python
+  - xgboost
