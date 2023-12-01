@@ -16,7 +16,7 @@ Run the load_data notebook which will perform the following tasks <br>
 - Create a Snowpark DataFrame from the CSV in the stage
 - Write the Snowpark DataFrame to Snowflake as a table <br>
 
-Run the load_data notebook which will perform the following tasks <br>
+Run the snowml notebook which will perform the following tasks <br>
 - Create a Snowpark DataFrame from the Titanic table
 - Check Null values
 - drop columns with high count of nulls
